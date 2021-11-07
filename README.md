@@ -9,3 +9,4 @@ File Descriptions:
 1. 'Qvirtual.py' ~ Contains the main Q-learning algorithm, implemented with the custom built environment.
 2. 'envirtual.py' ~ Contains the main environment with action and space descriptors, reward functions etc,.
 3. 'mainvirtual.py' ~ Contains action and state lists, along with possible rewards. 
+4. 'Results.pdf' ~ Contains acquired illustrations of the Q-table and state transition table upon changing Q-learning parameters. 
